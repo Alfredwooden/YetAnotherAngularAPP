@@ -1,5 +1,5 @@
 {
-  "name": "yet-another-angular-app",
+  "name": "@YetAnotherAngularAPP/YetAnotherAngularAPP",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
